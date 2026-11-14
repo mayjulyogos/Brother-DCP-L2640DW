@@ -3,9 +3,9 @@ This is a repo which includes the driver files and folder. Here we got two ways 
 
 <br>
 
-## Install CUPS
+## Install CUPS and Dependencies
 ```bash
-sudo pacman -S cups
+sudo pacman -S cups usbutils
 ```
 
 <br>
